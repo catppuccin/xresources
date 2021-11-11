@@ -12,7 +12,12 @@
 
 ## Usage
 
-1. Copy the `Xresources` file under `$HOME/.Xresources`: `curl -o $HOME/.Xresources https://raw.githubusercontent.com/catppuccin/xresources/main/Xresources`
+1. Copy the `Xresources` file under `$HOME/.Xresources`:
+
+```
+curl -o $HOME/.Xresources https://raw.githubusercontent.com/catppuccin/xresources/main/Xresources
+```
+
 2. use `xrdb` to apply it: `xrdb ~/.Xresources`
 
 ## 💝 Thanks to
