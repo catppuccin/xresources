@@ -7,12 +7,12 @@
 ## Gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss.png" />
+  <img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss.png"/>
 </p>
 
 ## Usage
 
-1. Copy the `Xresources` file under `$HOME/.Xresources`
+1. Copy the `Xresources` file under `$HOME/.Xresources`: `curl -o $HOME/.Xresources https://raw.githubusercontent.com/catppuccin/xresources/main/Xresources`
 2. use `xrdb` to apply it: `xrdb ~/.Xresources`
 
 ## 💝 Thanks to
