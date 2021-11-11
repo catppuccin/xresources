@@ -6,6 +6,10 @@
 
 ## Gallery
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss.png" />
+</p>
+
 ## Usage
 
 1. Copy the `Xresources` file under `$HOME/.Xresources`
@@ -13,4 +17,4 @@
 
 ## Thanks to
 
-- [Avatar](https://github.com/Vapourium)
+- [Vapourium](https://github.com/Vapourium)
