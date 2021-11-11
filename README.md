@@ -13,8 +13,8 @@
 ## Usage
 
 1. Copy the `Xresources` file under `$HOME/.Xresources`
-2. use `xrdb` to apply it: `xrdb ~/.Xresources``
+2. use `xrdb` to apply it: `xrdb ~/.Xresources`
 
-## Thanks to
+## 💝 Thanks to
 
 - [Vapourium](https://github.com/Vapourium)
