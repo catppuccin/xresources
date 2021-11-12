@@ -5,18 +5,22 @@
 <p align="center">Warm mid-tone dark theme to show off your vibrant self!</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss.png"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/main.png"/>
 </p>
 
 ## Usage
 
-1. Copy the `Xresources` file under `$HOME/.Xresources`:
-
 ```
-curl -o $HOME/.Xresources https://raw.githubusercontent.com/catppuccin/xresources/main/Xresources
+curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/Xresources
 ```
+2. Load it by : `xrdb merge <path to xresources file>`
 
-2. use `xrdb` to apply it: `xrdb ~/.Xresources`
+## More screenshots 
+
+<details><summary> <b>(Click to expand!)</b></summary>
+
+<img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss1.png"/>
+<img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss2.png"/>
 
 ## 💝 Thanks to
 
