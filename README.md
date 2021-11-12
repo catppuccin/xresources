@@ -25,3 +25,4 @@ curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/
 ## 💝 Thanks to
 
 - [Vapourium](https://github.com/Vapourium)
+- [siduck](https://github.com/siduck)
