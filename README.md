@@ -15,14 +15,14 @@ curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/
 ```
 2. Load it by : `xrdb merge <path to xresources file>`
 
+## 💝 Thanks to
+
+- [Vapourium](https://github.com/Vapourium)
+- [siduck](https://github.com/siduck)
+
 ## More screenshots 
 
 <details><summary> <b>(Click to expand!)</b></summary>
 
 <img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss1.png"/>
 <img src="https://raw.githubusercontent.com/catppuccin/xresources/main/assets/ss2.png"/>
-
-## 💝 Thanks to
-
-- [Vapourium](https://github.com/Vapourium)
-- [siduck](https://github.com/siduck)
