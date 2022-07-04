@@ -17,15 +17,32 @@
 
 ## Usage
 
-```
-curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/Xresources
-```
+<details>
+<summary>🌻 Latte</summary>
+<pre><code>curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/latte.Xresources</code></pre>
+</details>
 
-2. Load it by : `xrdb merge <path to xresources file>`
+<details>
+<summary>🪴 Frappé</summary>
+<pre><code>curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/frappe.Xresources</code></pre>
+</details>
+
+<details>
+<summary>🌺 Macchiato</summary>
+<pre><code>curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/macchiato.Xresources</code></pre>
+</details>
+
+<details>
+<summary>🌿 Mocha</summary>
+<pre><code>curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/mocha.Xresources</code></pre>
+</details>
+
+Load it by : `xrdb merge <path to xresources file>`
 
 ## 💝 Thanks to
 
 -   [Vapourium](https://github.com/Vapourium)
+-   [Sanjay Pavan](https;//github.com/WitherCubes)
 -   [siduck](https://github.com/siduck)
 
 &nbsp;
