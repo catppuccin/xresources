@@ -37,12 +37,12 @@
 <pre><code>curl -o xresources https://raw.githubusercontent.com/catppuccin/xresources/main/mocha.Xresources</code></pre>
 </details>
 
-Load it by : `xrdb merge <path to xresources file>`
+Load it by : `xrdb -merge <path to xresources file>`
 
 ## 💝 Thanks to
 
 -   [Vapourium](https://github.com/Vapourium)
--   [Sanjay Pavan](https;//github.com/WitherCubes)
+-   [Sanjay Pavan](https://github.com/WitherCubes)
 -   [siduck](https://github.com/siduck)
 
 &nbsp;
