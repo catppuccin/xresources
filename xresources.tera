@@ -1,0 +1,52 @@
+---
+whiskers:
+  version: "2.2.0"
+  matrix:
+    - flavor
+  filename: "themes/{{ flavor.identifier }}.Xresources"
+---
+*background: #{{ base.hex }}
+*foreground: #{{ text.hex }}
+*cursorColor: #{{ rosewater.hex }}
+
+! black
+{%- if flavor.dark %}
+*color0: #{{ surface1.hex }}
+*color8: #{{ surface2.hex }}
+{%- else %}
+*color0: #{{ subtext1.hex }}
+*color8: #{{ subtext0.hex }}
+{%- endif %}
+
+! red
+*color1: #{{ red.hex }}
+*color9: #{{ red.hex }}
+
+! green
+*color2: #{{ green.hex }}
+*color10: #{{ green.hex }}
+
+! yellow
+*color3: #{{ yellow.hex }}
+*color11: #{{ yellow.hex }}
+
+! blue
+*color4: #{{ blue.hex }}
+*color12: #{{ blue.hex }}
+
+! magenta
+*color5: #{{ pink.hex }}
+*color13: #{{ pink.hex }}
+
+! cyan
+*color6: #{{ teal.hex }}
+*color14: #{{ teal.hex }}
+
+! white
+{%- if flavor.dark %}
+*color7: #{{ subtext1.hex }}
+*color15: #{{ subtext0.hex }}
+{%- else %}
+*color7: #{{ surface2.hex }}
+*color15: #{{ surface1.hex }}
+{%- endif %}
